@@ -45,7 +45,7 @@ function App() {
 
 ## Documentation
 
-Visit our [documentation site](https://zentora-ui.dev) to explore:
+Visit our [documentation site](https://zentora-ui.netlify.app/) to explore:
 
 - Component API references
 - Usage examples
